@@ -133,3 +133,22 @@ If you're new to the project, see our
 look for [Good First Issues](https://github.com/matrix-org/dendrite/labels/good%20first%20issue). If you're
 familiar with the project, look for [Help Wanted](https://github.com/matrix-org/dendrite/labels/help-wanted)
 issues.
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
